@@ -1,0 +1,8 @@
+print("james"*3)
+print(3*"an")
+print(5*"2")
+print("2"*5)
+print("++++++++++++cuadrado+++++++")
+print("+" + 10 * "-" + "+")
+print(("|" + " " * 10 + "|\n") * 5, end="")
+print("+" + 10 * "-" + "+")

@@ -1,0 +1,18 @@
+print("I'm Monty Python")
+print("I\'m Monty Python")#con diagonal invertida o barra de escape
+print("+++++++++++++++++++++++++++++\n")
+print("Me gusta \"Monty Python\"")
+print('Me gusta \"Monty Python\"')
+print('\"Estoy\"\n\"\"aprendiendo\"\"\n\"\"\"Python\"\"\"')#Escribe una sola línea de código, utilizando la función print(), así como los caracteres de nueva línea y escape, para obtener la salida esperada de tres líneas.
+print("\n*************Puntos Claves-Ejercicios****************\n")
+print("Valor en decimal, del siguiente número binario: ", 0b1011)
+print("+++++++++++++++++++++++++++++\n")
+print("---------Concateanción------------")
+nom = input("¿Me puedes dar tu nombre, por favor? \n")
+ape = input("¿Me puedes dar tu apellido, por favor? \n")
+print("Gracias.")
+print("\nTu nombre es " + nom + " " + ape + ".")
+print("---------Rectangulo------------")
+print("+" + 10 * "-" + "+")
+print(("|" + " " * 10 + "|\n") * 5, end="")
+print("+" + 10 * "-" + "+")
